@@ -1,0 +1,38 @@
+Algoritmo "Para echar a andar un carro"
+
+1. Abrir la puerta del carro
+2. Sentarse en el asiento del piloto
+3. Acomodar el sillon hasta que se tenga una posición comoda
+4. Colocarse el cinturón de seguridad
+5. Toma la llave del carro
+6. Encuentra el switch para encenderlo en el panel del carro
+7. insertar la llave
+8. Girar la llave en sentido de las agujas del reloj
+9. Prestar atención al sonido del motor
+10. Si se escucha el rugido del motor esta bién hecho, caso contrario repetir paso 8.
+11. Asegurarse que el freno de mano este completamente liberado
+12. Si el freno de mano esta puesto, debe de soltarlo antes de continuar.
+13. Verificar el tablero en busca de luces de advertencia
+14. Ajustar espejos y aciendo, para estar comodo y tener buena visión
+15. Si el carro es automático, mover la palanca a la posicion "Drive"
+16. Si el carro es manual, pisar el embrague y seleccionar la primera marcha
+17. Asegurar nuevamente que el freno de mano esté liberado
+18. Pisar el aceladro suavemente y soltar suavemente el embrague hasta empezar a moverte
+19. Al tener la velocidad adecuada soltar embrague y pisar el acelarador.
+
+Algoritmo para "Cocer el hoyo de un pantalón"
+
+1. Buscar una aguja, hijo del color adecuado al color del pantalón y tijeras
+2. Colocar el pantalón en un lugar plano
+3. Asegurarse que el área del hoyo esté limpia y seca
+4. Crotar un pedazo de hilo lo suficientemente largo para cubrir el hoyo y un extra
+5. enhebrar la aguja con el extremo el hilo
+6. Asegurarse que el hilo esté bien asegurado en la aguja
+7. hace un pequeño nudo en el extremo del hilo para que no se salga mientras se coce el hoyo
+8. Insertar la afujata desde afuera hacia adentro del pantalón, comenzando en el borde del hoyo
+9. Realizar puntadas pequeñas y regulares para cerrar el hoyo
+10. Asegurarnos que las puntadas estén apretadas
+11. Seguir cociendo hasta que se haya cerrado completamente el hoyo
+12. Cuando se haya finalizado de coser, hacer un nudo firme en el interior del pantalón para que el hilo quede bien seguro
+13. Con las tijeras cortar el exceso de hilo, dejando un poco de margen
+14. Colocar el pantalón y verificar si el hoyo esta bien cerrado.

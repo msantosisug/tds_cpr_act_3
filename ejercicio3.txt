@@ -1,0 +1,77 @@
+Para este ejercicio elegí a mi gato Pancho.
+
+Enuncidados verdaderos sobre pancho:
+	1. Pancho es de color naranja.
+	2. A pancho le gusta jugar a las escondidas.
+	3. Pancho disfruta más de la comida húmeda que la seca.
+	4. A pancho le gusta que le razquen su espalda.
+	5. A pancho le gusta mirar por la ventana.
+	6. A pancho le gusta mucho bañarse.
+	7. Pancho es muy dormilón.
+	8. Pancho tiene un juguete en forma de perro que lo lleva por toda la casa.
+	9. A pancho le gusta dormir.
+	10. Pancho tiene su propia cama.
+
+Enunciados falsos sobre pancho:
+	1. Pancho es de color negro
+	2. Pancho tiene una piscina
+	3. A pancho le gusta ladrar
+	4. Pancho disfruta de comer frutas.
+	5. Pancho sabe como abrir la puerta por sí mismo.
+	6. Pancho prefiere cenar pizzar que comida para gatos
+	7. Pancho no tiene juguetes favoritos
+	8. Pancho es de pelo largo
+	9. Pancho tiene los ojos blancos
+	10. Pancho camina en dos patas todo el tiempo.
+
+Proposiciones Lógicas
+
+	1. Pancho es de color naranja y disfruta más de la comida húmeda que la seca.
+
+	Proposiciones usadas: Conjunción
+	Valor resultante: Verdadero
+
+	2. A Pancho le gusta jugar a las escondidas o no tiene una tiene una piscina.
+
+	Proposiciones usadas: Disyunción y negación
+	Valor resultante: Verdadero
+
+	3. Pancho disfruta de comer frutas y tiene un juguete en forma de perro que lo lleva por toda la casa.
+
+	Proposiciones usadas: Conjunción
+	Valor resultante: Verdadero
+
+	4. Pancho es muy dormilón y sabe cómo abrir la puerta por sí mismo.
+
+	Proposiciones usadas: Conjunción
+	Valor resultante: Falso
+
+	5. Pancho prefiere cenar pizza que comida para gatos y tiene su propia cama.
+
+	Proposiciones usadas: Conjunción
+	Valor resultante: Falso
+
+	6. Pancho tiene pelo de color negro o le gusta que le rasquen su espalda.
+
+	Proposiciones usadas: Disyunción
+	Valor resultante: Verdadero
+
+	7. Pancho tiene un juguete en forma de perro que lo lleva por toda la casa y no tiene juguetes favoritos.
+
+	Proposiciones usadas: Conjunción y Negación
+	Valor resultante: Falso
+
+	8. A Pancho le gusta mirar por la ventana y prefiere cenar pizza que comida para gatos.
+
+	Proposiciones usadas: Conjunción
+	Valor resultante: Falso
+
+	9. Pancho es de pelo largo y no tiene su propia cama.
+
+	Proposiciones usadas: Conjunción y Negación
+	Valor resultante: Falso
+
+	10. Pancho tiene los ojos blancos o camina en dos patas todo el tiempo.
+
+	Proposiciones usadas: Disyunción
+	Valor resultante: Falso
